@@ -1,1 +1,2 @@
 Git Repository Repos/DemoCli/. git created!
+First Commit done for the sample.txt
